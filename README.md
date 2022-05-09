@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshitgh
+- 👋 Hi, I’m @harshitghagre5454
 - 👀 I’m interested in competative coding 
 - 🌱 I’m currently web devloping
 - 💞️ I’m looking to collaborate on github
